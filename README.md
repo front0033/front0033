@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-## [Bezdenezhnyh Igor]
+## Bezdenezhnyh Igor
 
 *About Me:*
 
@@ -17,7 +17,6 @@ I'm a software engineer based in Moscow with 9 years of experience in the softwa
 * *Senior Front-End Developer | X5 Group | Moscow, Russia | June 2020 – March 2022*
     * Led the development of various web applications using React, TypeScript, and state management libraries like Redux and Mobx-State-Tree.
     * Played a key role in driving project success through effective planning, communication, and technical execution.
-* *[Add information about other work experiences]*
 
 *Education:*
 
@@ -36,14 +35,7 @@ Technology/Technician
 * *Tools:* Git, Webpack, NPM, Yarn
 * *Other:* Agile methodologies, Responsive Web Design, Cross-browser compatibility, Testing, Functional Programming
 
-*Projects:*
-
-* [Include links to your personal or open-source projects, if any]
-
-*Awards and Certifications:*
-
-* [List any relevant awards or certifications]
-
 *Connect with me:*
 
 * 📧 me@bezdenezhnyh.ru
+* https://www.linkedin.com/in/igor-bezdenezhnykh
