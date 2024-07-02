@@ -35,7 +35,16 @@ Technology/Technician
 * *Tools:* Git, Webpack, NPM, Yarn
 * *Other:* Agile methodologies, Responsive Web Design, Cross-browser compatibility, Testing, Functional Programming
 
+*Languages:*
+
+### Russian 🇷🇺 - Native speaker
+
+### English 🇺🇸 - Upper-intermediate (B2)
+
+### Korean 🇰🇷 - Elementary
+
 *Connect with me:*
 
 * 📧 me@bezdenezhnyh.ru
-* https://www.linkedin.com/in/igor-bezdenezhnykh
+* 🔗 https://www.linkedin.com/in/igor-bezdenezhnykh
+* https://vk.com/xor
