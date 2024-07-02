@@ -36,15 +36,12 @@ Technology/Technician
 * *Other:* Agile methodologies, Responsive Web Design, Cross-browser compatibility, Testing, Functional Programming
 
 *Languages:*
-
-### Russian 🇷🇺 - Native speaker
-
-### English 🇺🇸 - Upper-intermediate (B2)
-
-### Korean 🇰🇷 - Elementary
+* *🇷🇺 Russian:* Native speaker
+* *🇺🇸 English:* Upper-intermediate (B2)
+* *🇰🇷 Korean:* Elementary
 
 *Connect with me:*
 
 * 📧 me@bezdenezhnyh.ru
 * 🔗 https://www.linkedin.com/in/igor-bezdenezhnykh
-* https://vk.com/xor
+* 🌏 https://vk.com/xor
